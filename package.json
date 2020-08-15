@@ -1,6 +1,6 @@
 {
   "name": "backport-e2e",
-  "version": "8.0.0",
+  "version": "7.9.0",
   "main": "index.js",
   "repository": "git@github.com:backport-org/backport-e2e.git",
   "author": "Søren Louv-Jansen <sorenlouv@gmail.com>",
