@@ -1,5 +1,5 @@
 {
-  "upstream": "backport-org/e2e-testing",
+  "upstream": "backport-org/backport-e2e",
   "branches": ["6.3", "6.2", "6.1"],
   "labels": ["backport"],
   "branchLabelMapping": {
