@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:backport-org/backport-e2e.git",
   "author": "Søren Louv-Jansen <sorenlouv@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "backport": "^5.5.4"
+  }
 }
